@@ -2,7 +2,7 @@
 
 A Rollup plugin to install npm packages into the output.
 
-Useful for generating deployment packages in conjunction with [@gordonmleigh/rollup-plugin-npm](https://github.com/gordonmleigh/rollup-plugin-zip).
+Useful for generating deployment packages in conjunction with [@gordonmleigh/rollup-plugin-zip](https://github.com/gordonmleigh/rollup-plugin-zip).
 
 ```javascript
 import npm from "@gordonmleigh/rollup-plugin-npm";
